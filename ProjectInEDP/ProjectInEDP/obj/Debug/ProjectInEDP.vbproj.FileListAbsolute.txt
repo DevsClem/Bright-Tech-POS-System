@@ -1,0 +1,68 @@
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\bin\Debug\ProjectInEDP.exe.config
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.vbprojResolveAssemblyReference.cache
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.frmAdmin.resources
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.frmEmployee.resources
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.frmBrand.resources
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.frmLogin.resources
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.Resources.resources
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.vbproj.GenerateResource.Cache
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\bin\Debug\ProjectInEDP.exe
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\bin\Debug\ProjectInEDP.pdb
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\bin\Debug\ProjectInEDP.xml
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\bin\Debug\MySql.Data.dll
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\bin\Debug\MySql.Data.xml
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.exe
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.xml
+C:\Users\Clement\AppData\Local\Temporary Projects\ProjectInEDP\obj\Debug\ProjectInEDP.pdb
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.exe.config
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.exe
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.xml
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.pdb
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.exe
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.pdb
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.xml
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\bin\Debug\MySql.Data.dll
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\bin\Debug\MySql.Data.xml
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.vbprojResolveAssemblyReference.cache
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmBrand.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmHome.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.Resources.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.vbproj.GenerateResource.Cache
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmCategory.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmAdminOnly.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmLog.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmAdminLogin.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmStockin.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmSupplier.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmPayment.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmCustomer.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmSalesRecord.resources
+C:\Users\Clement\Desktop\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmReceipt.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.exe.config
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.exe
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.xml
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.pdb
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.exe
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.pdb
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.xml
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\bin\Debug\MySql.Data.xml
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.vbprojResolveAssemblyReference.cache
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmAdminLogin.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmCustomer.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmLog.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmAdminOnly.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmBrand.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmCategory.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmHome.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmPayment.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmSalesRecord.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmStockin.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.frmSupplier.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.Resources.resources
+C:\Users\Clement\Desktop\Project In EDP\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.vbproj.GenerateResource.Cache
+C:\Users\Clement\Desktop\Projects\Projects to Repo\Bright Tech POS vb.net\ProjectInEDP\ProjectInEDP\bin\Debug\ProjectInEDP.exe.config
+C:\Users\Clement\Desktop\Projects\Projects to Repo\Bright Tech POS vb.net\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.exe
+C:\Users\Clement\Desktop\Projects\Projects to Repo\Bright Tech POS vb.net\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.xml
+C:\Users\Clement\Desktop\Projects\Projects to Repo\Bright Tech POS vb.net\ProjectInEDP\ProjectInEDP\obj\Debug\ProjectInEDP.pdb

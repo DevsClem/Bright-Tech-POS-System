@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjectInEDP
+</name>
+</assembly>
+<members>
+<member name="T:ProjectInEDP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.icons8_Add_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.icons8_Move_Stock_28px_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.icons8_Profile_33px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.icons8_Trolley_35px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.icons8_Trolley_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.icons8_Trolley_48px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.icons8_Update_28px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjectInEDP.My.Resources.Resources.LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
