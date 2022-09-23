@@ -1,1 +1,1 @@
-"# Bright-Tech-POS-System" 
+# Bright-Tech-POS-System
