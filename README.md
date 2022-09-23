@@ -7,5 +7,5 @@ Images of the system provided in the PDF file.
 - CRUD
 
 ### Technologies used:
--MySQL
--VB.net
+- MySQL
+- VB.net
