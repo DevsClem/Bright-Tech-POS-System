@@ -4,7 +4,7 @@ Images and functions of the system provided inside the PDF file.
 
 ### Description (list the features):
 - Employee and Admin Login.
-- CRUD
+- CRUD Features
 
 ### Technologies used:
 - MySQL
